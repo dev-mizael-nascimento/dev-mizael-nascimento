@@ -1,42 +1,114 @@
-# Olá, eu sou o Mizael Nascimento 👋
-
-**Desenvolvedor focado em soluções práticas empresariais — do problema à solução rodando, sem burocracia.**
-
----
-
-### 🎯 Foco de atuação
-
-* **Resolução imediata:** destravo gargalos operacionais com entregas ágeis, enxutas e funcionais.
-* **Tecnologia a serviço do negócio:** foco no resultado prático e no retorno para a empresa, sem complexidade desnecessária.
-* **Do diagnóstico à produção:** desenvolvimento de sistemas, integrações e automações pensadas para o uso real no dia a dia.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<!-- Substitua, adicione ou remova os badges abaixo conforme a sua stack real -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 Atividade no GitHub
-
-<div align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=dev-mizael-nascimento&show_icons=true&count_private=true&locale=pt-br&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=7D8590&icon_color=2F81F7" alt="Estatísticas do GitHub de Mizael Nascimento" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mizael-nascimento&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=7D8590" alt="Linguagens mais usadas" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx1MmRmdXY1dXIyYnB3cWV4M3d2aWhhOTdwMzFnZXNzcDBjZnJyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ALdkafCMtovGtHCLcs/giphy.gif"  />
 </div>
 
----
+###
 
-### 📬 Vamos resolver um problema?
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.instagram.com/mizaelgnascimento/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5591984347127?text=Ol%C3%A1%20Mizael%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar](https://wa.me/5591984347127?text=Ol%C3%A1%20Mizael%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar)!" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<!-- Troque os links abaixo pelos seus contatos reais -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMEROAQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:dev-mizael-nascimento?theme=minecraft&padding=4&scale=1&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">Olá humano... 👋</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  sobre mim</h3>
+
+###
+
+<h6 data-importer="text" align="left">Mizael Nascimento — estudante, construtor de coisas e curioso por natureza.<br><br>Modo atual: Compilando ideias, resolvendo B.O.s e aprendendo algo novo todo dia.<br><br>Onde o foco está: projetos, código e soluções que funcionam na prática.<br><br>Regra de bolso: Se deu certo de primeira, sem nenhum aviso estranho, vale dar uma segunda olhada.<br><br>Atalho favorito: Ctrl + Z (salva mais do que muita gente imagina).</h6>
+
+###
+
+<h3 data-importer="text" align="left">Languages</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">ferramentas</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Meu status: DISPONIVEL</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-mizael-nascimento&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-mizael-nascimento/dev-mizael-nascimento/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-mizael-nascimento/dev-mizael-nascimento/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-mizael-nascimento/dev-mizael-nascimento/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/dev-mizael-nascimento/dev-mizael-nascimento/snake-output/snake.svg" alt="Snake animation" />
+
+###
