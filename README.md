@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/mizaelgnascimento/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/5591984347127?text=Ol%C3%A1%20Mizael%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar](https://wa.me/5591984347127?text=Ol%C3%A1%20Mizael%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar)!" target="_blank">
+  <a href="https://wa.me/5591984347127?text=Ol%C3%A1%20Mizael%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
